@@ -1,3 +1,5 @@
+This project was also a follow along of the tutorial https://www.taniarascia.com/crud-app-in-react-with-hooks/ !
+So easy to follow and a great intro to a simple CRUD React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
